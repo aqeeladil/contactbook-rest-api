@@ -1,4 +1,4 @@
-# Contact Book API
+# 📒 Contact Book API
 
 This project is an API for managing a user's contact list. Users can register, log in, and manage their contacts with the ability to create, update, view, search, and delete contacts. Authentication is handled using JWT (JSON Web Token), and the API is fully documented using **DRF Spectacular** for easy access.
 
@@ -6,17 +6,17 @@ This project is an API for managing a user's contact list. Users can register, l
 
 ## 🔧 Features
 
-- **JWT Authentication** – Login, register, and secure all contact data per user.
-- **CRUD Contacts** – Create, read, update, and delete your personal contacts.
-- **Search & Filter** – Filter contacts by `name` or `email`.
-- **Pagination** – Default page size of 5 contacts.
-- **Interactive Docs** – Swagger & ReDoc docs available via DRF Spectacular.
-- **Admin Panel** – Manage data through Django's admin interface.
-- **CORS Support** – Ready to connect with frontend frameworks like React or Vue.
+- ✅ **JWT Authentication** – Login, register, and secure all contact data per user.
+- ✅ **CRUD Contacts** – Create, read, update, and delete your personal contacts.
+- ✅ **Search & Filter** – Filter contacts by `name` or `email`.
+- ✅ **Pagination** – Default page size of 5 contacts.
+- ✅ **Interactive Docs** – Swagger & ReDoc docs available via DRF Spectacular.
+- ✅ **Admin Panel** – Manage data through Django's admin interface.
+- ✅ **CORS Support** – Ready to connect with frontend frameworks like React or Vue.
 
 ---
 
-## Technologies Used
+## 📚 Technologies Used
 
 - **Python**: The core language for the backend.
 - **Django**: The web framework used for developing the API.
@@ -29,7 +29,7 @@ This project is an API for managing a user's contact list. Users can register, l
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ```bash
 # Clone the repository
